@@ -1,4 +1,4 @@
-# 📝 Save Notes to Google Docs with Images — Go Project
+# 📝 Save Notes to Google Docs with Images
 
 This project is a simple Go-based server that lets you save rich notes — including text, tags, and images — directly to a Google Docs document using the Google Drive and Docs APIs.
 
