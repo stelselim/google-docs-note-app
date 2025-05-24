@@ -1,13 +1,13 @@
 ## Saving My Notes at Google Docs 
 I would like to save my notes at Google Docs by sending API requests to my local server. If I send a request to my local server, it will save the notes in a file and then send the file to Google Docs. I should be able to send title, tags, note-text and images to my server, and my server should upload to Google Docs. I will use single document at Google Docs, my server will keep adding these notes to at the beginning of the document.
 
-- [] Create a local server to connect Google Docs.
-- [] Receive title, tags, text, and image/images to upload Google Docs. 
-- [] Upload my notes to single document at Google Docs.
-- [] Create 2 Endpoints: Add, Get
-  - [] Add new note to Google Docs.
-  - [] Get from Google Docs.
-- [] Local Running / No Deployment Required
+- [X] Create a local server to connect Google Docs.
+- [X] Receive title, tags, text, and image/images to upload Google Docs. 
+- [X] Upload my notes to single document at Google Docs.
+- [X] Create 2 Endpoints: Add, Get
+  - [X] Add new note to Google Docs.
+  - [X] Get from Google Docs.
+- [X] Local Running / No Deployment Required
 
 
 <br>
