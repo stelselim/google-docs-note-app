@@ -74,7 +74,6 @@ func GetGoogleDocsDocument() (*docs.Document, error) {
 	return doc, nil
 }
 
-// TODO: Implement this function
 func GetDocContent() ([]types.NoteGetResponse, error) {
 	docRef := GoogleDocService.Documents.Get(GoogleDocNoteId)
 	noteDocument, documentErr := docRef.Do()
